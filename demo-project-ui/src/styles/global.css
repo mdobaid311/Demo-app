@@ -1,0 +1,184 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: 'GeistMonoVF';
+  src: url('./fonts/GeistMonoVF.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'GeistVF';
+  src: url('./fonts/GeistVF.woff') format('woff');
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}
+
+body {
+  background-color: var(--background);
+}
+
+@layer base {
+  :root {
+    /* ShadCN color variables */
+    --primary: #393646;
+    --primary-foreground: #ffffff;
+
+    --secondary: #19376D;
+    --secondary-foreground: #ffffff;
+
+    --background: #f4f5f6;
+    --foreground: #000000;
+
+    --card: #ffffff;
+    --card-foreground: #000000;
+
+    --popover: #ffffff;
+    --popover-foreground: #000000;
+
+    --muted: #fff3f0;
+    --muted-foreground: #71717a;
+
+    --accent: #f0f9ff;
+    --accent-foreground: #000000;
+
+    --destructive: #ff5449;
+    --destructive-foreground: #dceefb;
+
+    --border: #000000;
+    --input: #d6e4ff;
+    --ring: #576CBC;
+    --radius: 0.5rem;
+    --chart-1: #e63946;
+    --chart-2: #06d6a0;
+    --chart-3: #4e5166;
+    --chart-4: #fac710;
+    --chart-5: #fc773e;
+
+    /*custom color variables */
+    --fq-green: #3d2c27;
+    --fq-green-accent: #a17373;
+    --fq-dark-blue: #393646;
+    --f1-light-blue: #1d1e4b;
+    --fq-light-blue-accent: #5e5cca;
+  }
+
+  /* .dark {
+    --background: #000000; 
+    --foreground: #dceefb; 
+    --card: #000000; 
+    --card-foreground: #dceefb; 
+    --popover: #000000; 
+    --popover-foreground: #dceefb; 
+    --primary: #409eff; 
+    --primary-foreground: #38343d; 
+    --secondary: #413738; 
+    --secondary-foreground: #dceefb; 
+    --muted: #413738; 
+    --muted-foreground: #a4b1c2; 
+    --accent: #413738; 
+    --accent-foreground: #dceefb; 
+    --destructive: #a1243d; 
+    --destructive-foreground: #dceefb; 
+    --border: #413738; 
+    --input: #413738; 
+    --ring: #306fd9; 
+    --chart-1: #3498db; 
+    --chart-2: #36c4c4; 
+    --chart-3: #ffb84d; 
+    --chart-4: #a93bff; 
+    --chart-5: #e61b61; 
+  } */
+}
+
+.test {
+  border: 1px solid red;
+}
+
+.test2 {
+  border: 4px solid rgb(66, 66, 183);
+}
+
+.icon {
+  @apply text-base m-0 flex items-center p-0;
+}
+
+@keyframes rotate {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.circle-animation {
+  animation: rotate 3s linear infinite;
+  transform-box: fill-box;
+  transform-origin: 50% 50%;
+}
+
+.primary-gradient {
+  background: hsla(205, 82%, 20%, 1);
+
+  background: linear-gradient(
+    270deg,
+    hsla(205, 82%, 20%, 1) 30%,
+    hsla(205, 70%, 45%, 1) 100%
+  );
+
+  background: -moz-linear-gradient(
+    270deg,
+    hsla(205, 82%, 20%, 1) 30%,
+    hsla(205, 70%, 45%, 1) 100%
+  );
+
+  background: -webkit-linear-gradient(
+    270deg,
+    hsla(205, 82%, 20%, 1) 30%,
+    hsla(205, 70%, 45%, 1) 100%
+  );
+
+  filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#393646", endColorstr="#19376D", GradientType=1 );
+}
+
+::-webkit-scrollbar-track {
+  -webkit-box-shadow: inset 0 0 2px rgba(0, 0, 0, 0.3);
+  border-radius: 0.5rem;
+  background-color: #f5f5f5;
+}
+
+::-webkit-scrollbar {
+  width: 8px;
+  border-radius: 0.5rem;
+}
+
+::-webkit-scrollbar-thumb {
+  border-radius: 0.5rem;
+  background-color: #b9c2ca;
+}
+.login-bg-image-1 {
+  background-image: url("../assets/background.jpg");
+}
+.login-bg-image-2 {
+  background-image: url("../assets/background.jpg");
+}
+.login-bg-image-3 {
+  background-image: url("../assets/background.jpg");
+}
+
+@layer base {
+  :root {
+    --sidebar-background: 251, 13%, 24%, 1;
+    --sidebar-foreground: 240 4.8% 95.9%;
+    --sidebar-primary: 224.3 76.3% 48%;
+    --sidebar-primary-foreground: 0 0% 100%;
+    --sidebar-accent: 219, 63%, 26%, 1;
+    --sidebar-accent-foreground: 240 4.8% 95.9%;
+    --sidebar-border: 240 3.7% 15.9%;
+  }
+}

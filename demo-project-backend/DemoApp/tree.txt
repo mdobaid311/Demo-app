@@ -1,0 +1,626 @@
+Folder PATH listing for volume Work
+Volume serial number is F028-CAFA
+G:.
+¦   DemoApp.sln
+¦   tree.txt
+¦   
++---DemoApp.Api
+¦   ¦   appsettings.Development.json
+¦   ¦   appsettings.json
+¦   ¦   DemoApp.Api.csproj
+¦   ¦   DemoApp.Api.http
+¦   ¦   DependencyInjection.cs
+¦   ¦   global.json
+¦   ¦   Program.cs
+¦   ¦   
+¦   +---bin
+¦   ¦   +---Debug
+¦   ¦       +---net8.0
+¦   ¦           ¦   appsettings.Development.json
+¦   ¦           ¦   appsettings.json
+¦   ¦           ¦   Ardalis.SmartEnum.dll
+¦   ¦           ¦   Azure.Core.dll
+¦   ¦           ¦   Azure.Identity.dll
+¦   ¦           ¦   DemoApp.Api.deps.json
+¦   ¦           ¦   DemoApp.Api.dll
+¦   ¦           ¦   DemoApp.Api.exe
+¦   ¦           ¦   DemoApp.Api.pdb
+¦   ¦           ¦   DemoApp.Api.runtimeconfig.json
+¦   ¦           ¦   DemoApp.Api.staticwebassets.endpoints.json
+¦   ¦           ¦   DemoApp.Application.dll
+¦   ¦           ¦   DemoApp.Application.pdb
+¦   ¦           ¦   DemoApp.Contracts.dll
+¦   ¦           ¦   DemoApp.Contracts.pdb
+¦   ¦           ¦   DemoApp.Domain.dll
+¦   ¦           ¦   DemoApp.Domain.pdb
+¦   ¦           ¦   DemoApp.Infrastructure.dll
+¦   ¦           ¦   DemoApp.Infrastructure.pdb
+¦   ¦           ¦   ErrorOr.dll
+¦   ¦           ¦   FluentEmail.Core.dll
+¦   ¦           ¦   FluentEmail.Smtp.dll
+¦   ¦           ¦   FluentValidation.AspNetCore.dll
+¦   ¦           ¦   FluentValidation.DependencyInjectionExtensions.dll
+¦   ¦           ¦   FluentValidation.dll
+¦   ¦           ¦   global.json
+¦   ¦           ¦   Humanizer.dll
+¦   ¦           ¦   MediatR.Contracts.dll
+¦   ¦           ¦   MediatR.dll
+¦   ¦           ¦   Microsoft.AspNetCore.Authentication.JwtBearer.dll
+¦   ¦           ¦   Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+¦   ¦           ¦   Microsoft.AspNetCore.OpenApi.dll
+¦   ¦           ¦   Microsoft.Bcl.AsyncInterfaces.dll
+¦   ¦           ¦   Microsoft.Bcl.Memory.dll
+¦   ¦           ¦   Microsoft.CodeAnalysis.CSharp.dll
+¦   ¦           ¦   Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+¦   ¦           ¦   Microsoft.CodeAnalysis.dll
+¦   ¦           ¦   Microsoft.CodeAnalysis.Workspaces.dll
+¦   ¦           ¦   Microsoft.Data.SqlClient.dll
+¦   ¦           ¦   Microsoft.Data.Sqlite.dll
+¦   ¦           ¦   Microsoft.EntityFrameworkCore.Abstractions.dll
+¦   ¦           ¦   Microsoft.EntityFrameworkCore.Design.dll
+¦   ¦           ¦   Microsoft.EntityFrameworkCore.dll
+¦   ¦           ¦   Microsoft.EntityFrameworkCore.Relational.dll
+¦   ¦           ¦   Microsoft.EntityFrameworkCore.Sqlite.dll
+¦   ¦           ¦   Microsoft.EntityFrameworkCore.SqlServer.dll
+¦   ¦           ¦   Microsoft.Extensions.DependencyModel.dll
+¦   ¦           ¦   Microsoft.Identity.Client.dll
+¦   ¦           ¦   Microsoft.Identity.Client.Extensions.Msal.dll
+¦   ¦           ¦   Microsoft.IdentityModel.Abstractions.dll
+¦   ¦           ¦   Microsoft.IdentityModel.JsonWebTokens.dll
+¦   ¦           ¦   Microsoft.IdentityModel.Logging.dll
+¦   ¦           ¦   Microsoft.IdentityModel.Protocols.dll
+¦   ¦           ¦   Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+¦   ¦           ¦   Microsoft.IdentityModel.Tokens.dll
+¦   ¦           ¦   Microsoft.OpenApi.dll
+¦   ¦           ¦   Microsoft.SqlServer.Server.dll
+¦   ¦           ¦   Microsoft.Win32.SystemEvents.dll
+¦   ¦           ¦   Mono.TextTemplating.dll
+¦   ¦           ¦   OneOf.dll
+¦   ¦           ¦   SQLitePCLRaw.batteries_v2.dll
+¦   ¦           ¦   SQLitePCLRaw.core.dll
+¦   ¦           ¦   SQLitePCLRaw.provider.e_sqlite3.dll
+¦   ¦           ¦   Swashbuckle.AspNetCore.Swagger.dll
+¦   ¦           ¦   Swashbuckle.AspNetCore.SwaggerGen.dll
+¦   ¦           ¦   Swashbuckle.AspNetCore.SwaggerUI.dll
+¦   ¦           ¦   System.CodeDom.dll
+¦   ¦           ¦   System.Composition.AttributedModel.dll
+¦   ¦           ¦   System.Composition.Convention.dll
+¦   ¦           ¦   System.Composition.Hosting.dll
+¦   ¦           ¦   System.Composition.Runtime.dll
+¦   ¦           ¦   System.Composition.TypedParts.dll
+¦   ¦           ¦   System.Configuration.ConfigurationManager.dll
+¦   ¦           ¦   System.Drawing.Common.dll
+¦   ¦           ¦   System.IdentityModel.Tokens.Jwt.dll
+¦   ¦           ¦   System.Memory.Data.dll
+¦   ¦           ¦   System.Runtime.Caching.dll
+¦   ¦           ¦   System.Security.Cryptography.ProtectedData.dll
+¦   ¦           ¦   System.Security.Permissions.dll
+¦   ¦           ¦   System.Windows.Extensions.dll
+¦   ¦           ¦   Throw.dll
+¦   ¦           ¦   
+¦   ¦           +---cs
+¦   ¦           ¦       Microsoft.CodeAnalysis.CSharp.resources.dll
+¦   ¦           ¦       Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+¦   ¦           ¦       Microsoft.CodeAnalysis.resources.dll
+¦   ¦           ¦       Microsoft.CodeAnalysis.Workspaces.resources.dll
+¦   ¦           ¦       
+¦   ¦           +---de
+¦   ¦           ¦       Microsoft.CodeAnalysis.CSharp.resources.dll
+¦   ¦           ¦       Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+¦   ¦           ¦       Microsoft.CodeAnalysis.resources.dll
+¦   ¦           ¦       Microsoft.CodeAnalysis.Workspaces.resources.dll
+¦   ¦           ¦       
+¦   ¦           +---es
+¦   ¦           ¦       Microsoft.CodeAnalysis.CSharp.resources.dll
+¦   ¦           ¦       Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+¦   ¦           ¦       Microsoft.CodeAnalysis.resources.dll
+¦   ¦           ¦       Microsoft.CodeAnalysis.Workspaces.resources.dll
+¦   ¦           ¦       
+¦   ¦           +---fr
+¦   ¦           ¦       Microsoft.CodeAnalysis.CSharp.resources.dll
+¦   ¦           ¦       Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+¦   ¦           ¦       Microsoft.CodeAnalysis.resources.dll
+¦   ¦           ¦       Microsoft.CodeAnalysis.Workspaces.resources.dll
+¦   ¦           ¦       
+¦   ¦           +---it
+¦   ¦           ¦       Microsoft.CodeAnalysis.CSharp.resources.dll
+¦   ¦           ¦       Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+¦   ¦           ¦       Microsoft.CodeAnalysis.resources.dll
+¦   ¦           ¦       Microsoft.CodeAnalysis.Workspaces.resources.dll
+¦   ¦           ¦       
+¦   ¦           +---ja
+¦   ¦           ¦       Microsoft.CodeAnalysis.CSharp.resources.dll
+¦   ¦           ¦       Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+¦   ¦           ¦       Microsoft.CodeAnalysis.resources.dll
+¦   ¦           ¦       Microsoft.CodeAnalysis.Workspaces.resources.dll
+¦   ¦           ¦       
+¦   ¦           +---ko
+¦   ¦           ¦       Microsoft.CodeAnalysis.CSharp.resources.dll
+¦   ¦           ¦       Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+¦   ¦           ¦       Microsoft.CodeAnalysis.resources.dll
+¦   ¦           ¦       Microsoft.CodeAnalysis.Workspaces.resources.dll
+¦   ¦           ¦       
+¦   ¦           +---pl
+¦   ¦           ¦       Microsoft.CodeAnalysis.CSharp.resources.dll
+¦   ¦           ¦       Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+¦   ¦           ¦       Microsoft.CodeAnalysis.resources.dll
+¦   ¦           ¦       Microsoft.CodeAnalysis.Workspaces.resources.dll
+¦   ¦           ¦       
+¦   ¦           +---pt-BR
+¦   ¦           ¦       Microsoft.CodeAnalysis.CSharp.resources.dll
+¦   ¦           ¦       Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+¦   ¦           ¦       Microsoft.CodeAnalysis.resources.dll
+¦   ¦           ¦       Microsoft.CodeAnalysis.Workspaces.resources.dll
+¦   ¦           ¦       
+¦   ¦           +---ru
+¦   ¦           ¦       Microsoft.CodeAnalysis.CSharp.resources.dll
+¦   ¦           ¦       Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+¦   ¦           ¦       Microsoft.CodeAnalysis.resources.dll
+¦   ¦           ¦       Microsoft.CodeAnalysis.Workspaces.resources.dll
+¦   ¦           ¦       
+¦   ¦           +---runtimes
+¦   ¦           ¦   +---browser-wasm
+¦   ¦           ¦   ¦   +---nativeassets
+¦   ¦           ¦   ¦       +---net8.0
+¦   ¦           ¦   ¦               e_sqlite3.a
+¦   ¦           ¦   ¦               
+¦   ¦           ¦   +---linux-arm
+¦   ¦           ¦   ¦   +---native
+¦   ¦           ¦   ¦           libe_sqlite3.so
+¦   ¦           ¦   ¦           
+¦   ¦           ¦   +---linux-arm64
+¦   ¦           ¦   ¦   +---native
+¦   ¦           ¦   ¦           libe_sqlite3.so
+¦   ¦           ¦   ¦           
+¦   ¦           ¦   +---linux-armel
+¦   ¦           ¦   ¦   +---native
+¦   ¦           ¦   ¦           libe_sqlite3.so
+¦   ¦           ¦   ¦           
+¦   ¦           ¦   +---linux-mips64
+¦   ¦           ¦   ¦   +---native
+¦   ¦           ¦   ¦           libe_sqlite3.so
+¦   ¦           ¦   ¦           
+¦   ¦           ¦   +---linux-musl-arm
+¦   ¦           ¦   ¦   +---native
+¦   ¦           ¦   ¦           libe_sqlite3.so
+¦   ¦           ¦   ¦           
+¦   ¦           ¦   +---linux-musl-arm64
+¦   ¦           ¦   ¦   +---native
+¦   ¦           ¦   ¦           libe_sqlite3.so
+¦   ¦           ¦   ¦           
+¦   ¦           ¦   +---linux-musl-x64
+¦   ¦           ¦   ¦   +---native
+¦   ¦           ¦   ¦           libe_sqlite3.so
+¦   ¦           ¦   ¦           
+¦   ¦           ¦   +---linux-ppc64le
+¦   ¦           ¦   ¦   +---native
+¦   ¦           ¦   ¦           libe_sqlite3.so
+¦   ¦           ¦   ¦           
+¦   ¦           ¦   +---linux-s390x
+¦   ¦           ¦   ¦   +---native
+¦   ¦           ¦   ¦           libe_sqlite3.so
+¦   ¦           ¦   ¦           
+¦   ¦           ¦   +---linux-x64
+¦   ¦           ¦   ¦   +---native
+¦   ¦           ¦   ¦           libe_sqlite3.so
+¦   ¦           ¦   ¦           
+¦   ¦           ¦   +---linux-x86
+¦   ¦           ¦   ¦   +---native
+¦   ¦           ¦   ¦           libe_sqlite3.so
+¦   ¦           ¦   ¦           
+¦   ¦           ¦   +---maccatalyst-arm64
+¦   ¦           ¦   ¦   +---native
+¦   ¦           ¦   ¦           libe_sqlite3.dylib
+¦   ¦           ¦   ¦           
+¦   ¦           ¦   +---maccatalyst-x64
+¦   ¦           ¦   ¦   +---native
+¦   ¦           ¦   ¦           libe_sqlite3.dylib
+¦   ¦           ¦   ¦           
+¦   ¦           ¦   +---osx-arm64
+¦   ¦           ¦   ¦   +---native
+¦   ¦           ¦   ¦           libe_sqlite3.dylib
+¦   ¦           ¦   ¦           
+¦   ¦           ¦   +---osx-x64
+¦   ¦           ¦   ¦   +---native
+¦   ¦           ¦   ¦           libe_sqlite3.dylib
+¦   ¦           ¦   ¦           
+¦   ¦           ¦   +---unix
+¦   ¦           ¦   ¦   +---lib
+¦   ¦           ¦   ¦       +---net6.0
+¦   ¦           ¦   ¦               Microsoft.Data.SqlClient.dll
+¦   ¦           ¦   ¦               System.Drawing.Common.dll
+¦   ¦           ¦   ¦               
+¦   ¦           ¦   +---win
+¦   ¦           ¦   ¦   +---lib
+¦   ¦           ¦   ¦       +---net6.0
+¦   ¦           ¦   ¦               Microsoft.Data.SqlClient.dll
+¦   ¦           ¦   ¦               Microsoft.Win32.SystemEvents.dll
+¦   ¦           ¦   ¦               System.Drawing.Common.dll
+¦   ¦           ¦   ¦               System.Runtime.Caching.dll
+¦   ¦           ¦   ¦               System.Security.Cryptography.ProtectedData.dll
+¦   ¦           ¦   ¦               System.Windows.Extensions.dll
+¦   ¦           ¦   ¦               
+¦   ¦           ¦   +---win-arm
+¦   ¦           ¦   ¦   +---native
+¦   ¦           ¦   ¦           e_sqlite3.dll
+¦   ¦           ¦   ¦           Microsoft.Data.SqlClient.SNI.dll
+¦   ¦           ¦   ¦           
+¦   ¦           ¦   +---win-arm64
+¦   ¦           ¦   ¦   +---native
+¦   ¦           ¦   ¦           e_sqlite3.dll
+¦   ¦           ¦   ¦           Microsoft.Data.SqlClient.SNI.dll
+¦   ¦           ¦   ¦           
+¦   ¦           ¦   +---win-x64
+¦   ¦           ¦   ¦   +---native
+¦   ¦           ¦   ¦           e_sqlite3.dll
+¦   ¦           ¦   ¦           Microsoft.Data.SqlClient.SNI.dll
+¦   ¦           ¦   ¦           
+¦   ¦           ¦   +---win-x86
+¦   ¦           ¦       +---native
+¦   ¦           ¦               e_sqlite3.dll
+¦   ¦           ¦               Microsoft.Data.SqlClient.SNI.dll
+¦   ¦           ¦               
+¦   ¦           +---tr
+¦   ¦           ¦       Microsoft.CodeAnalysis.CSharp.resources.dll
+¦   ¦           ¦       Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+¦   ¦           ¦       Microsoft.CodeAnalysis.resources.dll
+¦   ¦           ¦       Microsoft.CodeAnalysis.Workspaces.resources.dll
+¦   ¦           ¦       
+¦   ¦           +---zh-Hans
+¦   ¦           ¦       Microsoft.CodeAnalysis.CSharp.resources.dll
+¦   ¦           ¦       Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+¦   ¦           ¦       Microsoft.CodeAnalysis.resources.dll
+¦   ¦           ¦       Microsoft.CodeAnalysis.Workspaces.resources.dll
+¦   ¦           ¦       
+¦   ¦           +---zh-Hant
+¦   ¦                   Microsoft.CodeAnalysis.CSharp.resources.dll
+¦   ¦                   Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+¦   ¦                   Microsoft.CodeAnalysis.resources.dll
+¦   ¦                   Microsoft.CodeAnalysis.Workspaces.resources.dll
+¦   ¦                   
+¦   +---Controllers
+¦   ¦       ApiController.cs
+¦   ¦       UserController.cs
+¦   ¦       
+¦   +---obj
+¦   ¦   ¦   DemoApp.Api.csproj.nuget.dgspec.json
+¦   ¦   ¦   DemoApp.Api.csproj.nuget.g.props
+¦   ¦   ¦   DemoApp.Api.csproj.nuget.g.targets
+¦   ¦   ¦   project.assets.json
+¦   ¦   ¦   project.nuget.cache
+¦   ¦   ¦   
+¦   ¦   +---Debug
+¦   ¦       +---net8.0
+¦   ¦           ¦   .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+¦   ¦           ¦   apphost.exe
+¦   ¦           ¦   DemoApp..571EE6F1.Up2Date
+¦   ¦           ¦   DemoApp.Api.AssemblyInfo.cs
+¦   ¦           ¦   DemoApp.Api.AssemblyInfoInputs.cache
+¦   ¦           ¦   DemoApp.Api.assets.cache
+¦   ¦           ¦   DemoApp.Api.csproj.AssemblyReference.cache
+¦   ¦           ¦   DemoApp.Api.csproj.CoreCompileInputs.cache
+¦   ¦           ¦   DemoApp.Api.csproj.FileListAbsolute.txt
+¦   ¦           ¦   DemoApp.Api.dll
+¦   ¦           ¦   DemoApp.Api.GeneratedMSBuildEditorConfig.editorconfig
+¦   ¦           ¦   DemoApp.Api.genruntimeconfig.cache
+¦   ¦           ¦   DemoApp.Api.GlobalUsings.g.cs
+¦   ¦           ¦   DemoApp.Api.MvcApplicationPartsAssemblyInfo.cache
+¦   ¦           ¦   DemoApp.Api.MvcApplicationPartsAssemblyInfo.cs
+¦   ¦           ¦   DemoApp.Api.pdb
+¦   ¦           ¦   staticwebassets.build.endpoints.json
+¦   ¦           ¦   staticwebassets.build.json
+¦   ¦           ¦   
+¦   ¦           +---ref
+¦   ¦           ¦       DemoApp.Api.dll
+¦   ¦           ¦       
+¦   ¦           +---refint
+¦   ¦           ¦       DemoApp.Api.dll
+¦   ¦           ¦       
+¦   ¦           +---staticwebassets
+¦   ¦                   msbuild.build.DemoApp.Api.props
+¦   ¦                   msbuild.buildMultiTargeting.DemoApp.Api.props
+¦   ¦                   msbuild.buildTransitive.DemoApp.Api.props
+¦   ¦                   
+¦   +---Properties
+¦           launchSettings.json
+¦           
++---DemoApp.Application
+¦   ¦   DemoApp.Application.csproj
+¦   ¦   DependencyInjection.cs
+¦   ¦   
+¦   +---bin
+¦   ¦   +---Debug
+¦   ¦       +---net8.0
+¦   ¦       ¦       DemoApp.Application.deps.json
+¦   ¦       ¦       DemoApp.Application.dll
+¦   ¦       ¦       DemoApp.Application.pdb
+¦   ¦       ¦       DemoApp.Domain.dll
+¦   ¦       ¦       DemoApp.Domain.pdb
+¦   ¦       ¦       
+¦   ¦       +---net9.0
+¦   ¦               DemoApp.Application.deps.json
+¦   ¦               DemoApp.Application.dll
+¦   ¦               DemoApp.Application.pdb
+¦   ¦               DemoApp.Domain.dll
+¦   ¦               DemoApp.Domain.pdb
+¦   ¦               
+¦   +---Common
+¦   ¦   +---Behaviors
+¦   ¦   ¦       AuthorizationBehavior.cs
+¦   ¦   ¦       ValidationBehavior.cs
+¦   ¦   ¦       
+¦   ¦   +---Interfaces
+¦   ¦   ¦       IAuthorizationService.cs
+¦   ¦   ¦       IDateTimeProvider.cs
+¦   ¦   ¦       IJwtTokenGenerator.cs
+¦   ¦   ¦       IUsersRepository.cs
+¦   ¦   ¦       
+¦   ¦   +---Security
+¦   ¦       +---Request
+¦   ¦               AuthorizeAttribute.cs
+¦   ¦               IAuthorizeableRequest.cs
+¦   ¦               
+¦   +---obj
+¦   ¦   ¦   DemoApp.Application.csproj.nuget.dgspec.json
+¦   ¦   ¦   DemoApp.Application.csproj.nuget.g.props
+¦   ¦   ¦   DemoApp.Application.csproj.nuget.g.targets
+¦   ¦   ¦   project.assets.json
+¦   ¦   ¦   project.nuget.cache
+¦   ¦   ¦   
+¦   ¦   +---Debug
+¦   ¦       +---net8.0
+¦   ¦       ¦   ¦   .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+¦   ¦       ¦   ¦   DemoApp..05821E3A.Up2Date
+¦   ¦       ¦   ¦   DemoApp.Application.AssemblyInfo.cs
+¦   ¦       ¦   ¦   DemoApp.Application.AssemblyInfoInputs.cache
+¦   ¦       ¦   ¦   DemoApp.Application.assets.cache
+¦   ¦       ¦   ¦   DemoApp.Application.csproj.AssemblyReference.cache
+¦   ¦       ¦   ¦   DemoApp.Application.csproj.CoreCompileInputs.cache
+¦   ¦       ¦   ¦   DemoApp.Application.csproj.FileListAbsolute.txt
+¦   ¦       ¦   ¦   DemoApp.Application.dll
+¦   ¦       ¦   ¦   DemoApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+¦   ¦       ¦   ¦   DemoApp.Application.GlobalUsings.g.cs
+¦   ¦       ¦   ¦   DemoApp.Application.pdb
+¦   ¦       ¦   ¦   
+¦   ¦       ¦   +---ref
+¦   ¦       ¦   ¦       DemoApp.Application.dll
+¦   ¦       ¦   ¦       
+¦   ¦       ¦   +---refint
+¦   ¦       ¦           DemoApp.Application.dll
+¦   ¦       ¦           
+¦   ¦       +---net9.0
+¦   ¦           ¦   .NETCoreApp,Version=v9.0.AssemblyAttributes.cs
+¦   ¦           ¦   DemoApp..05821E3A.Up2Date
+¦   ¦           ¦   DemoApp.Application.AssemblyInfo.cs
+¦   ¦           ¦   DemoApp.Application.AssemblyInfoInputs.cache
+¦   ¦           ¦   DemoApp.Application.assets.cache
+¦   ¦           ¦   DemoApp.Application.csproj.AssemblyReference.cache
+¦   ¦           ¦   DemoApp.Application.csproj.CoreCompileInputs.cache
+¦   ¦           ¦   DemoApp.Application.csproj.FileListAbsolute.txt
+¦   ¦           ¦   DemoApp.Application.dll
+¦   ¦           ¦   DemoApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+¦   ¦           ¦   DemoApp.Application.GlobalUsings.g.cs
+¦   ¦           ¦   DemoApp.Application.pdb
+¦   ¦           ¦   
+¦   ¦           +---ref
+¦   ¦           ¦       DemoApp.Application.dll
+¦   ¦           ¦       
+¦   ¦           +---refint
+¦   ¦                   DemoApp.Application.dll
+¦   ¦                   
+¦   +---Users
+¦       +---Commands
+¦           +---RegisterUser
+¦                   RegisterUserCommand.cs
+¦                   RegisterUserCommandHandler.cs
+¦                   RegisterUserCommandValidator.cs
+¦                   
++---DemoApp.Contracts
+¦   ¦   DemoApp.Contracts.csproj
+¦   ¦   DependencyInjection.cs
+¦   ¦   
+¦   +---bin
+¦   ¦   +---Debug
+¦   ¦       +---net8.0
+¦   ¦       ¦       DemoApp.Contracts.deps.json
+¦   ¦       ¦       DemoApp.Contracts.dll
+¦   ¦       ¦       DemoApp.Contracts.pdb
+¦   ¦       ¦       
+¦   ¦       +---net9.0
+¦   ¦               DemoApp.Contracts.deps.json
+¦   ¦               DemoApp.Contracts.dll
+¦   ¦               DemoApp.Contracts.pdb
+¦   ¦               
+¦   +---obj
+¦   ¦   ¦   DemoApp.Contracts.csproj.nuget.dgspec.json
+¦   ¦   ¦   DemoApp.Contracts.csproj.nuget.g.props
+¦   ¦   ¦   DemoApp.Contracts.csproj.nuget.g.targets
+¦   ¦   ¦   project.assets.json
+¦   ¦   ¦   project.nuget.cache
+¦   ¦   ¦   
+¦   ¦   +---Debug
+¦   ¦       +---net8.0
+¦   ¦       ¦   ¦   .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+¦   ¦       ¦   ¦   DemoApp.Contracts.AssemblyInfo.cs
+¦   ¦       ¦   ¦   DemoApp.Contracts.AssemblyInfoInputs.cache
+¦   ¦       ¦   ¦   DemoApp.Contracts.assets.cache
+¦   ¦       ¦   ¦   DemoApp.Contracts.csproj.AssemblyReference.cache
+¦   ¦       ¦   ¦   DemoApp.Contracts.csproj.CoreCompileInputs.cache
+¦   ¦       ¦   ¦   DemoApp.Contracts.csproj.FileListAbsolute.txt
+¦   ¦       ¦   ¦   DemoApp.Contracts.dll
+¦   ¦       ¦   ¦   DemoApp.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+¦   ¦       ¦   ¦   DemoApp.Contracts.GlobalUsings.g.cs
+¦   ¦       ¦   ¦   DemoApp.Contracts.pdb
+¦   ¦       ¦   ¦   
+¦   ¦       ¦   +---ref
+¦   ¦       ¦   ¦       DemoApp.Contracts.dll
+¦   ¦       ¦   ¦       
+¦   ¦       ¦   +---refint
+¦   ¦       ¦           DemoApp.Contracts.dll
+¦   ¦       ¦           
+¦   ¦       +---net9.0
+¦   ¦           ¦   .NETCoreApp,Version=v9.0.AssemblyAttributes.cs
+¦   ¦           ¦   DemoApp.Contracts.AssemblyInfo.cs
+¦   ¦           ¦   DemoApp.Contracts.AssemblyInfoInputs.cache
+¦   ¦           ¦   DemoApp.Contracts.assets.cache
+¦   ¦           ¦   DemoApp.Contracts.csproj.AssemblyReference.cache
+¦   ¦           ¦   DemoApp.Contracts.csproj.CoreCompileInputs.cache
+¦   ¦           ¦   DemoApp.Contracts.csproj.FileListAbsolute.txt
+¦   ¦           ¦   DemoApp.Contracts.dll
+¦   ¦           ¦   DemoApp.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+¦   ¦           ¦   DemoApp.Contracts.GlobalUsings.g.cs
+¦   ¦           ¦   DemoApp.Contracts.pdb
+¦   ¦           ¦   
+¦   ¦           +---ref
+¦   ¦           ¦       DemoApp.Contracts.dll
+¦   ¦           ¦       
+¦   ¦           +---refint
+¦   ¦                   DemoApp.Contracts.dll
+¦   ¦                   
+¦   +---Users
+¦           RegisterUserRequest.cs
+¦           
++---DemoApp.Domain
+¦   ¦   DemoApp.Domain.csproj
+¦   ¦   
+¦   +---bin
+¦   ¦   +---Debug
+¦   ¦       +---net8.0
+¦   ¦       ¦       DemoApp.Domain.deps.json
+¦   ¦       ¦       DemoApp.Domain.dll
+¦   ¦       ¦       DemoApp.Domain.pdb
+¦   ¦       ¦       
+¦   ¦       +---net9.0
+¦   ¦               DemoApp.Domain.deps.json
+¦   ¦               DemoApp.Domain.dll
+¦   ¦               DemoApp.Domain.pdb
+¦   ¦               
+¦   +---obj
+¦   ¦   ¦   DemoApp.Domain.csproj.nuget.dgspec.json
+¦   ¦   ¦   DemoApp.Domain.csproj.nuget.g.props
+¦   ¦   ¦   DemoApp.Domain.csproj.nuget.g.targets
+¦   ¦   ¦   project.assets.json
+¦   ¦   ¦   project.nuget.cache
+¦   ¦   ¦   
+¦   ¦   +---Debug
+¦   ¦       +---net8.0
+¦   ¦       ¦   ¦   .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+¦   ¦       ¦   ¦   DemoApp.Domain.AssemblyInfo.cs
+¦   ¦       ¦   ¦   DemoApp.Domain.AssemblyInfoInputs.cache
+¦   ¦       ¦   ¦   DemoApp.Domain.assets.cache
+¦   ¦       ¦   ¦   DemoApp.Domain.csproj.AssemblyReference.cache
+¦   ¦       ¦   ¦   DemoApp.Domain.csproj.CoreCompileInputs.cache
+¦   ¦       ¦   ¦   DemoApp.Domain.csproj.FileListAbsolute.txt
+¦   ¦       ¦   ¦   DemoApp.Domain.dll
+¦   ¦       ¦   ¦   DemoApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+¦   ¦       ¦   ¦   DemoApp.Domain.GlobalUsings.g.cs
+¦   ¦       ¦   ¦   DemoApp.Domain.pdb
+¦   ¦       ¦   ¦   
+¦   ¦       ¦   +---ref
+¦   ¦       ¦   ¦       DemoApp.Domain.dll
+¦   ¦       ¦   ¦       
+¦   ¦       ¦   +---refint
+¦   ¦       ¦           DemoApp.Domain.dll
+¦   ¦       ¦           
+¦   ¦       +---net9.0
+¦   ¦           ¦   .NETCoreApp,Version=v9.0.AssemblyAttributes.cs
+¦   ¦           ¦   DemoApp.Domain.AssemblyInfo.cs
+¦   ¦           ¦   DemoApp.Domain.AssemblyInfoInputs.cache
+¦   ¦           ¦   DemoApp.Domain.assets.cache
+¦   ¦           ¦   DemoApp.Domain.csproj.AssemblyReference.cache
+¦   ¦           ¦   DemoApp.Domain.csproj.CoreCompileInputs.cache
+¦   ¦           ¦   DemoApp.Domain.csproj.FileListAbsolute.txt
+¦   ¦           ¦   DemoApp.Domain.dll
+¦   ¦           ¦   DemoApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+¦   ¦           ¦   DemoApp.Domain.GlobalUsings.g.cs
+¦   ¦           ¦   DemoApp.Domain.pdb
+¦   ¦           ¦   
+¦   ¦           +---ref
+¦   ¦           ¦       DemoApp.Domain.dll
+¦   ¦           ¦       
+¦   ¦           +---refint
+¦   ¦                   DemoApp.Domain.dll
+¦   ¦                   
+¦   +---Users
+¦           User.cs
+¦           
++---DemoApp.Infrastructure
+    ¦   DemoApp.Infrastructure.csproj
+    ¦   DependencyInjection.cs
+    ¦   
+    +---bin
+    ¦   +---Debug
+    ¦       +---net8.0
+    ¦       ¦       DemoApp.Application.dll
+    ¦       ¦       DemoApp.Application.pdb
+    ¦       ¦       DemoApp.Domain.dll
+    ¦       ¦       DemoApp.Domain.pdb
+    ¦       ¦       DemoApp.Infrastructure.deps.json
+    ¦       ¦       DemoApp.Infrastructure.dll
+    ¦       ¦       DemoApp.Infrastructure.pdb
+    ¦       ¦       DemoApp.Infrastructure.runtimeconfig.json
+    ¦       ¦       
+    ¦       +---net9.0
+    ¦               DemoApp.Application.dll
+    ¦               DemoApp.Application.pdb
+    ¦               DemoApp.Domain.dll
+    ¦               DemoApp.Domain.pdb
+    ¦               DemoApp.Infrastructure.deps.json
+    ¦               DemoApp.Infrastructure.dll
+    ¦               DemoApp.Infrastructure.pdb
+    ¦               DemoApp.Infrastructure.runtimeconfig.json
+    ¦               
+    +---Common
+    ¦   +---Persistence
+    ¦           AppDbContext.cs
+    ¦           
+    +---obj
+        ¦   DemoApp.Infrastructure.csproj.nuget.dgspec.json
+        ¦   DemoApp.Infrastructure.csproj.nuget.g.props
+        ¦   DemoApp.Infrastructure.csproj.nuget.g.targets
+        ¦   project.assets.json
+        ¦   project.nuget.cache
+        ¦   
+        +---Debug
+            +---net8.0
+            ¦   ¦   .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+            ¦   ¦   DemoApp..2153A911.Up2Date
+            ¦   ¦   DemoApp.Infrastructure.AssemblyInfo.cs
+            ¦   ¦   DemoApp.Infrastructure.AssemblyInfoInputs.cache
+            ¦   ¦   DemoApp.Infrastructure.assets.cache
+            ¦   ¦   DemoApp.Infrastructure.csproj.AssemblyReference.cache
+            ¦   ¦   DemoApp.Infrastructure.csproj.CoreCompileInputs.cache
+            ¦   ¦   DemoApp.Infrastructure.csproj.FileListAbsolute.txt
+            ¦   ¦   DemoApp.Infrastructure.dll
+            ¦   ¦   DemoApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+            ¦   ¦   DemoApp.Infrastructure.genruntimeconfig.cache
+            ¦   ¦   DemoApp.Infrastructure.GlobalUsings.g.cs
+            ¦   ¦   DemoApp.Infrastructure.pdb
+            ¦   ¦   
+            ¦   +---ref
+            ¦   ¦       DemoApp.Infrastructure.dll
+            ¦   ¦       
+            ¦   +---refint
+            ¦           DemoApp.Infrastructure.dll
+            ¦           
+            +---net9.0
+                ¦   .NETCoreApp,Version=v9.0.AssemblyAttributes.cs
+                ¦   DemoApp..2153A911.Up2Date
+                ¦   DemoApp.Infrastructure.AssemblyInfo.cs
+                ¦   DemoApp.Infrastructure.AssemblyInfoInputs.cache
+                ¦   DemoApp.Infrastructure.assets.cache
+                ¦   DemoApp.Infrastructure.csproj.AssemblyReference.cache
+                ¦   DemoApp.Infrastructure.csproj.CoreCompileInputs.cache
+                ¦   DemoApp.Infrastructure.csproj.FileListAbsolute.txt
+                ¦   DemoApp.Infrastructure.dll
+                ¦   DemoApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+                ¦   DemoApp.Infrastructure.genruntimeconfig.cache
+                ¦   DemoApp.Infrastructure.GlobalUsings.g.cs
+                ¦   DemoApp.Infrastructure.pdb
+                ¦   
+                +---ref
+                ¦       DemoApp.Infrastructure.dll
+                ¦       
+                +---refint
+                        DemoApp.Infrastructure.dll
+                        
