@@ -20,6 +20,7 @@ import { ColumnDef } from "@tanstack/react-table";
 import { useEffect, useState } from "react";
 import { FaPlus } from "react-icons/fa";
 import { useSelector } from "react-redux";
+import { toast, Toaster } from "sonner";
 import { z } from "zod";
 
 const Users = () => {
@@ -131,10 +132,17 @@ const Users = () => {
       password: values.Password,
       roleID: values.Role,
     };
-    usersAPI.createUser(body).then(() => {
-      getUsers();
-      setIsUserAddSlideoutOpen(false);
-    });
+    usersAPI
+      .createUser(body)
+      .then(() => {
+        getUsers();
+        setIsUserAddSlideoutOpen(false);
+      })
+      .catch((error) => {
+        if (error.status === 400) {
+          toast.error(error.data);
+        }
+      });
   };
 
   const handleUserEdit = (values: z.infer<typeof userFormSchema>) => {
@@ -147,10 +155,17 @@ const Users = () => {
       phoneNumber: values.PhoneNumber,
       roleID: values.Role,
     };
-    usersAPI.updateUser(body).then(() => {
-      getUsers();
-      setIsUserAddSlideoutOpen(false);
-    });
+    usersAPI
+      .updateUser(body)
+      .then(() => {
+        getUsers();
+        setIsUserAddSlideoutOpen(false);
+      })
+      .catch((error) => {
+        if (error.status === 400) {
+          toast.error(error.data);
+        }
+      });
   };
 
   return (
@@ -201,6 +216,11 @@ const Users = () => {
           isEditing={isEditing}
         />
       )}
+      <Toaster
+        toastOptions={{
+          className: "bg-primary text-primary-foreground",
+        }}
+      />
     </Card>
   );
 };

@@ -7,6 +7,8 @@ import FormInputField from "../generic-components/FormInputField";
 import { Form } from "../ui/form";
 import { useEffect } from "react";
 import { IUser } from "@/interfaces/IUser";
+import PasswordInputField from "../common/PasswordInputField";
+import FormSelectField from "../generic-components/FormSelectField";
 
 interface IUserFormProps {
   onClose: () => void;
@@ -81,20 +83,24 @@ const UserAddEditForm = ({
             placeholder="Enter phone number"
             required
           />
-          <FormInputField
+          <FormSelectField
             form={form}
             name="Role"
             label="Role"
-            placeholder="Enter role"
+            placeholder="Select role"
             required
+            options={[
+              { label: "Admin", value: "1" },
+              { label: "User", value: "2" },
+            ]}
           />
           {!isEditing && (
-            <FormInputField
+            <PasswordInputField
               form={form}
-              name="Password"
               label="Password"
-              placeholder="Enter password"
               required
+              id="Password"
+              className="flex flex-col justify-start"
             />
           )}
         </form>
